@@ -1,6 +1,1 @@
-# kaizenjs
-> Coding better never stops.
-
-[logo]:  "kaizen"
-
-![Kaizen](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaizen-2.svg/1200px-Kaizen-2.svg.png "kaizen")
+![Kaizen](https://i.ibb.co/HX4C44J/Screenshot-2019-08-19-at-11-45-28-pm.png "kaizen")
