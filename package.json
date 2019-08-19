@@ -1,0 +1,20 @@
+{
+  "name": "kaizenjs",
+  "version": "1.0.0",
+  "description": "![Kaizen](https://i.ibb.co/HX4C44J/Screenshot-2019-08-19-at-11-45-28-pm.png \"kaizen\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilanjansiromani/kaizenjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilanjansiromani/kaizenjs/issues"
+  },
+  "homepage": "https://github.com/nilanjansiromani/kaizenjs#readme"
+}
