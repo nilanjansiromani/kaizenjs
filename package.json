@@ -1,6 +1,6 @@
 {
   "name": "kaizenjs",
-  "version": "1.0.1-alpha",
+  "version": "1.0.1a-alpha",
   "description": "![Kaizen](https://i.ibb.co/HX4C44J/Screenshot-2019-08-19-at-11-45-28-pm.png \"kaizen\")",
   "main": "dist/index.js",
   "scripts": {
