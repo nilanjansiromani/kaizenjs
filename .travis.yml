@@ -5,4 +5,4 @@ node_js:
 install:
   - npm install
 script:
-  - cd istanbul-mocha && npm test
+  - npm test
