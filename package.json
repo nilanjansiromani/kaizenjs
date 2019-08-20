@@ -4,7 +4,7 @@
   "description": "![Kaizen](https://i.ibb.co/HX4C44J/Screenshot-2019-08-19-at-11-45-28-pm.png \"kaizen\")",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nilanjansiromani/kaizenjs/issues"
   },
-  "homepage": "https://github.com/nilanjansiromani/kaizenjs#readme"
+  "homepage": "https://github.com/nilanjansiromani/kaizenjs#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
 }
