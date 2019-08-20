@@ -2,22 +2,25 @@
   "name": "kaizenjs",
   "version": "1.0.0",
   "description": "![Kaizen](https://i.ibb.co/HX4C44J/Screenshot-2019-08-19-at-11-45-28-pm.png \"kaizen\")",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jest"
+    "test": "./node_modules/.bin/jest",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nilanjansiromani/kaizenjs.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nilanjan Siromani",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/nilanjansiromani/kaizenjs/issues"
   },
   "homepage": "https://github.com/nilanjansiromani/kaizenjs#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
   }
 }
